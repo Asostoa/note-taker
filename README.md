@@ -1,4 +1,4 @@
-# **Team Profile Generator**
+# **Note-Taker**
 ![Badge](https://img.shields.io/github/license/asostoa/note-taker)
 ![BadgeGithub](https://img.shields.io/github/followers/asostoa?style=social)
 ![BadgeSize](https://img.shields.io/github/repo-size/asostoa/note-taker)
