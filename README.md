@@ -38,6 +38,6 @@ server.js/     // Runs the application
 ## License
 ![Badge](https://img.shields.io/github/license/asostoa/note-taker)
 ## Repository
-- [Project Repo](https://asostoa.github.io/Team-Generator/.)
+- [Project Repo](https://asostoa.github.io/note-taker)
 ## GitHub 
 - [GitHub Profile](https://github.com/Asostoa)
