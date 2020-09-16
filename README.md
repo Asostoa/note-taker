@@ -22,7 +22,7 @@ Clone the repository to your local development environment.
 git clone https://github.com/asostoa/note-taker.git
  
 Navigate to the developer-profile-generator folder using the command prompt.
-Run npm install to install all dependencies. To use the application locally, run node server.js in your CLI, and then open http://localhost:3000 in your preferred browswer. The Note Taker app is live on [heroku](https://calm-plateau-23418.herokuapp.com/) for you to use as well.
+Run npm install to install all dependencies. To use the application locally, run node server.js in your CLI, and then open http://localhost:8080 in your preferred browswer. The Note Taker app is live on [heroku](https://calm-plateau-23418.herokuapp.com/) for you to use as well.
 
 ## Directory
 ```
